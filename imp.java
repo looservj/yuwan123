@@ -1,4 +1,5 @@
-S3CloudHub
+pubic static voisd main()
+	S3CloudHub
 
 
 
